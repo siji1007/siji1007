@@ -1,13 +1,13 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://siji1007.io)
 <h1 align="center">Hi 👋, I'm SIJI</h1>
 <h3 align="center">A passionate FrontEnd developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siji1007&label=Profile%20views&color=0e75b6&style=flat" alt="siji1007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siji1007" alt="siji1007" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🔭 I’m currently working on [TOURISM-WEBSITE](https://github.com/siji1007/TOURISM-WEBSITE)
 
@@ -18,6 +18,7 @@
 - 📫 How to reach me **christianjohnibanez@gmail.com**
 
 - ⚡ Fun fact **Busy man**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
