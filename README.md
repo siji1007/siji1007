@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://siji1007.io)
 <h1 align="center">Hi 👋, I'm SIJI</h1>
 <h3 align="center">A passionate FrontEnd developer from Philippines</h3>
-<img align="right" alt="Coding" width="400" src="[https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
+<img align="right" alt="Coding" width="400" src="[[https://giphy.com/stickers/hacktiv8-code-error-laptop-Ll22OhMLAlVDb8UQWe](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)">
 
 
 
