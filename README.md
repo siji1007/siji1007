@@ -9,7 +9,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I’m currently working on [TOURISM-WEBSITE](https://github.com/siji1007/TOURISM-WEBSITE)
+- 🔭 I’m currently working on [InventoryMate](https://github.com/siji1007/InventoryMate)
 
 - 🌱 I’m currently learning **ASP.net,Djanggo,React**
 
