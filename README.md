@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [InventoryMate](https://github.com/siji1007/InventoryMate)
 
-- 🌱 I’m currently learning **ASP.net,Djanggo,React**
+- 🌱 I’m currently learning **ASP.net, Djanggo, ReactJS, Typescript, and VB.net**
 
-- 💬 Ask me about **Java, Python, Js**
+- 💬 Ask me about **Java Android, Python, Js DOM, ASP.net, ReactJS,Figma, and Blender **
 
 - 📫 How to reach me **christianjohnibanez@gmail.com**
 
