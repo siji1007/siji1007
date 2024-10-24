@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SIJI</h1>
-<h3 align="center">Website Developer</h3>
-<h3 align="center">Mobile Developer</h3>
-<h3 align="center">Software Developer</h3>
-<h3 align="center">CyberSecurity</h3>
+<h3 align="center">{Website, Mobile, Software} Developer, Application Security </h3>
+
+
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siji1007&label=Profile%20views&color=0e75b6&style=flat" alt="siji1007" /> </p>
