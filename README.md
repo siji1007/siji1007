@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]([https://siji1007.io](https://github.com/siji1007))
 <h1 align="center">Hi 👋, I'm SIJI</h1>
 <h3 align="center">A passionate FrontEnd developer from Philippines</h3>
 
@@ -9,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I’m currently working on [InventoryMate](https://github.com/siji1007/InventoryMate)
+- 🔭 I’m currently working on [Client Feedback System and Ecommerce]
 
 - 🌱 I’m currently learning **ASP.net, Djanggo, ReactJS, Typescript, and VB.net**
 
