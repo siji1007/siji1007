@@ -12,9 +12,9 @@
 
 - 🔭 I’m currently working on [Pamatek and Circulib]
 
-- 🌱 I’m currently learning **ASP.net, Djanggo, ReactJS, Typescript, and VB.net**
+- 🌱 I’m currently learning **ASP.net, Djanggo, ReactJS, Typescript, and Flutter**
 
-- 💬 Ask me about **Java Android, Python, Js DOM, ASP.net, ReactJS,Figma, and Blender **
+- 💬 Ask me about **Java Android, Python, React, ASP.net, Figma, and Blender **
 
 - 📫 How to reach me **christianjohnibanez@gmail.com**
 
