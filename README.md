@@ -32,22 +32,11 @@
 
 <!-- Stats -->
 ### 📊 My Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siji1007&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-
-
 ---
 
-<!-- Footer -->
-<p align="center">
-  <b>Profile Views</b>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siji1007&label=Views&style=flat-square" alt="profile views" />
-</p>
