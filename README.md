@@ -9,19 +9,11 @@
   
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=dbb489&ring=87801&fire=87801&currStreakLabel=150f07&currStreakNum=150f07&sideNums=150f07&sideLabels=150f07&dates=150f07" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=7d551f&ring=87801&fire=87801&currStreakLabel=150f07&currStreakNum=150f07&sideNums=150f07&sideLabels=150f07&dates=150f07" alt="GitHub Streak" />
   </p>
   
   
-  
-  <!-- Social Links -->
-  ### 🌐 Connect with me:
-  <p align="left">
-    <a href="https://fb.com/cjayzzz.com.ph" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-  </p>
-  
+
   ---
   
   <!-- Tools -->
@@ -45,6 +37,13 @@
         </td>
       </tr>
     </table>
+  </p>
+
+    ### 🌐 Connect with me:
+  <p align="left">
+    <a href="https://fb.com/cjayzzz.com.ph" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
   </p>
 
 
