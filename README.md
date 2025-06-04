@@ -1,12 +1,6 @@
-<div style={{
-  backgroundImage: 'url("[https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif](https://i.gifer.com/J4o.gif)")',
-  backgroundSize: 'cover',
-  backgroundRepeat: 'no-repeat',
-  backgroundPosition: 'center',
-  minHeight: '100vh',   // Make sure it fills the screen height
-  color: 'white',       // Adjust text color for contrast
-  padding: '20px'
-}}>
+<p align="center">
+  <img src="https://i.gifer.com/J4o.gif" width="600" alt="Animated background" />
+</p>
   <h1 align="center">Hi, I’m SiJi 👋</h1>
   <h3 align="center">I am a full stack web developer</h3>
   
@@ -54,6 +48,6 @@
       </tr>
     </table>
   </p>
-</div>
+
 
 
