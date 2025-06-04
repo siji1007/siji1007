@@ -7,9 +7,8 @@
   <img src="https://komarev.com/ghpvc/?username=siji1007&label=Profile%20views&color=0e75b6&style=flat" alt="siji1007" />
 </p>
 
-<!-- Coding Animation (Optional) -->
-<p align="center ">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=000000" alt="GitHub Streak" />
 </p>
 
 <!-- Social Links -->
