@@ -7,9 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=siji1007&label=Profile%20views&color=0e75b6&style=flat" alt="siji1007" />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=000000" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=052754&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
 </p>
+
+
 
 <!-- Social Links -->
 ### 🌐 Connect with me:
