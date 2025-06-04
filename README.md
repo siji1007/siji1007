@@ -27,7 +27,7 @@
   <!-- Tools -->
   ### 🛠️ When I Code, I Rely On:
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,typescript,react,angular,java,python,php,django,flask,dotnet,c,cpp,csharp,oracle,mysql,sqlite,mongodb,git,github,docker,figma,vscode,photoshop,illustrator,xd" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,typescript,react,java,python,php,django,flask,dotnet,c,cpp,csharp,oracle,mysql,sqlite,mongodb,git,github,docker,figma,vscode," />
   </p>
   
   ---
