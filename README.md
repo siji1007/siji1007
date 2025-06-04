@@ -33,7 +33,7 @@
 ### 📊 My Stats:
 
 <p align="center">
-  <table>
+  <table align="center">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default&card_width=400" width="400" height="200" />
