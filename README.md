@@ -9,7 +9,7 @@
 
 <!-- Coding Animation (Optional) -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="400" alt="Coding gif"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default" alt="GitHub Streak" />
 </p>
 
 <!-- About Section -->
@@ -50,9 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siji1007&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default" alt="GitHub Streak" />
-</p>
+
 
 ---
 
