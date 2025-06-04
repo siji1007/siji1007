@@ -30,13 +30,19 @@
 
 ---
 
-<!-- Stats -->
 ### 📊 My Stats:
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siji1007&layout=compact&theme=default" alt="Top Languages" />
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default&card_width=400" width="400" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siji1007&layout=compact&theme=default&card_width=400" width="400" height="200" />
+      </td>
+    </tr>
+  </table>
 </p>
 
----
 
