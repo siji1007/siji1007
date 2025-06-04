@@ -1,7 +1,5 @@
-<p align="center">
-  <img src="https://i.gifer.com/J4o.gif" width="600" alt="Animated background" />
-</p>
-  <h1 align="center">Hi, I’m SiJi 👋</h1>
+
+ <h1 align="center">Hi, I’m SiJi 👋</h1>
   <h3 align="center">I am a full stack web developer</h3>
   
   <!-- Profile Views -->
@@ -11,7 +9,7 @@
   
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=052754&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=052754&ring=87801&fire=87801&currStreakLabel=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
   </p>
   
   
