@@ -8,19 +8,9 @@
 </p>
 
 <!-- Coding Animation (Optional) -->
-<p align="center">
+<p align="center ">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default" alt="GitHub Streak" />
 </p>
-
-<!-- About Section -->
-### 💡 About Me:
-- 🔭 I’m currently working on **Pamatek and Circulib**
-- 🌱 Currently learning: **ASP.NET, Django, ReactJS, TypeScript, Flutter**
-- 💬 Ask me about: **Java Android, Python, React, ASP.NET, Figma, Blender**
-- 📫 Reach me at: **christianjohnibanez@gmail.com**
-- ⚡ Fun fact: **Busy man**
-
----
 
 <!-- Social Links -->
 ### 🌐 Connect with me:
