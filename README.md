@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi, I’m SiJi 👋</h1>
-  <h3 align="center">I am a full stack web developer</h3>
+  <h3 align="center">A full stack web developer and Application Security Tester</h3>
   
   <!-- Profile Views -->
   <p align="center">
