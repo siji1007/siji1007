@@ -24,7 +24,7 @@
   
   ---
   
-  ### 📊 My Stats:
+ 🖥️ My Stats:
   
   <p align="center">
     <table align="center">
@@ -39,12 +39,24 @@
     </table>
   </p>
 
-    ### 🌐 Connect with me:
-  <p align="left">
-    <a href="https://fb.com/cjayzzz.com.ph" target="_blank">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-    </a>
-  </p>
+🌐 Connect with me:
+<p align="left">
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/sijayszzz/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="[https://www.linkedin.com/in/your-linkedin-username/](https://www.linkedin.com/in/christian-john-ibanez-0a3a03325/)" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="christianjohnibanez@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  </a>
+</p>
+
 
 
 
