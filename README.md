@@ -8,7 +8,7 @@
   </p>
 
   
-![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749475052/GIT_je6dmv.png)
+ ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749475052/GIT_je6dmv.png)
   
   
   <p align="center">
@@ -44,7 +44,6 @@
 
 🌐 Connect with me:
 <p align="left">
-
   <a href="https://www.facebook.com/sijayszzz/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
