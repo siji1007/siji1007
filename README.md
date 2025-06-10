@@ -44,7 +44,7 @@
 
 🌐 Connect with me:
 <p align="left">
-  <!-- Facebook -->
+
   <a href="https://www.facebook.com/sijayszzz/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
   </a>
