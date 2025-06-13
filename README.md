@@ -8,7 +8,7 @@
   </p>
 
   
- ![Image]([https://res.cloudinary.com/dz5nz06an/image/upload/v1749475052/GIT_je6dmv.png](https://asset.cloudinary.com/dz5nz06an/76b72c4b757cd21954f2a8c0442eed2a))
+ ![Image](https://asset.cloudinary.com/dz5nz06an/76b72c4b757cd21954f2a8c0442eed2a)
   
   
   <p align="center">
