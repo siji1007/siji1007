@@ -8,7 +8,7 @@
   </p>
 
   
- ![Image](https://console.cloudinary.com/console/c-4e982d0a9e5dc9444e8738def96f0b/media_library/asset/c9011c7539a1221727f61493ea94f1cf/manage)
+ ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749822576/github_ctccoz.png)
   
   
   <p align="center">
