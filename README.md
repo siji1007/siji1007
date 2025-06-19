@@ -12,7 +12,7 @@
   
   
   <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=c69145&ring=87801&fire=87801&currStreakLabel=1c1204&currStreakNum=1c1204&sideNums=1c1204&sideLabels=1c1204&dates=1c1204" alt="GitHub Streak" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=c69145&ring=87801&fire=87801&currStreakLabel=1c1204&currStreakNum=1c1204&sideNums=1c1204&sideLabels=1c1204&dates=1c1202" alt="GitHub Streak" />
 
   </p>
   
