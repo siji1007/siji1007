@@ -27,21 +27,6 @@
   </p>
   
   ---
-  
- 🖥️ My Stats:
-  
-  <p align="center">
-    <table align="center">
-      <tr>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default&card_width=400" width="400" height="200" />
-        </td>
-        <td>
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siji1007&layout=compact&theme=default&card_width=400" width="400" height="200" />
-        </td>
-      </tr>
-    </table>
-  </p>
 
 
 🌐 Connect with me:
