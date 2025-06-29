@@ -11,9 +11,7 @@
  ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749822576/github_ctccoz.png)
   
   
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=siji1007" alt="GitHub Streak Stats" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=siji1007&theme=neon)](https://git.io/streak-stats)
   
 
   ---
