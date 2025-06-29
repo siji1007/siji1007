@@ -10,7 +10,8 @@
   
  ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749822576/github_ctccoz.png)
   
-![siji1007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=blueberry&hide_border=true)
+![siji1007's Streak](https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true)
+
 
   ---
   
