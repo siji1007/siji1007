@@ -38,8 +38,8 @@
         </td>
       </tr>
     </table>
-    [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siji1007&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
   </p>
+      [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siji1007&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 🌐 Connect with me:
 <p align="left">
