@@ -10,7 +10,10 @@
   
  ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749822576/github_ctccoz.png)
   
-https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
   ---
   
