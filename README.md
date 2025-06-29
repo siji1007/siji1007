@@ -10,8 +10,7 @@
   
  ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749822576/github_ctccoz.png)
   
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=default&background=c69145&ring=87801&fire=87801&currStreakLabel=1c1204&currStreakNum=1c1204&sideNums=1c1204&sideLabels=1c1204&dates=1c1202" alt="GitHub Streak" />
-  
+![siji1007's Streak](https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=blueberry&hide_border=true)
 
   ---
   
