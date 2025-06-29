@@ -13,6 +13,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siji1007&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 
   ---
@@ -39,7 +42,7 @@
       </tr>
     </table>
   </p>
-      [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siji1007&theme=react-dark&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 🌐 Connect with me:
 <p align="left">
