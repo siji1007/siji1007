@@ -10,9 +10,7 @@
   
  ![Image](https://res.cloudinary.com/dz5nz06an/image/upload/v1749822576/github_ctccoz.png)
   
-[<img src="https://github-readme-stats.vercel.app/api?username=siji1007&show_icons=true&theme=default&cache_seconds=3600" width="400" height="200" />](https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true)
-
-
+https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true
 
   ---
   
