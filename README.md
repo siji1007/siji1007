@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi, I’m SiJi 👋</h1>
-  <h3 align="center">I build full-stack solutions and specialize in offensive cybersecurity tactics.</h3>
+  <h3 align="center">I build full-stack solutions and specialize in defensive cybersecurity tactics.</h3>
   
   <!-- Profile Views -->
   <p align="center">
