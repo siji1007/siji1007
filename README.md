@@ -8,7 +8,7 @@
   </p>
 
   
- ![Image]("https://collection.cloudinary.com/dz5nz06an/3a7c13c9ecc81bbc1206d5658dbb3361")
+("<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8d00bd66-e174-4c9e-b1a5-4ca9f5f15a73" />
   
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true" alt="GitHub Streak" />
