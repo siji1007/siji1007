@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi, I’m SiJi 👋</h1>
-  <h3 align="center">Aym a Full-stack application developer with corporate and freelancing experience, seeking OJT opportunities in Manila or abroad.
+  <h3 align="center">I'm a Full-stack application developer with corporate and freelancing experience, seeking OJT opportunities in Manila or abroad.
 .</h3>
   
   <!-- Profile Views -->
