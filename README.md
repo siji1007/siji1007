@@ -12,7 +12,7 @@
 <img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8a16afe4-5e7c-44d2-b735-06c6747b73e9" />
   
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true" alt="GitHub Streak" />
+  <img src="https://www.google.com/search?client=opera-gx&q=%5B!%5BGitHub+Streak%5D(https%3A%2F%2Fstreak-stats.demolab.com%3Fuser%3Dsiji1007%26theme%3Ddark)%5D(https%3A%2F%2Fgit.io%2Fstreak-stats)&sourceid=opera&ie=UTF-8&oe=UTF-8" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siji1007&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
