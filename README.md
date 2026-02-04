@@ -13,7 +13,7 @@
   
 <p align="center">
   <a href="https://github.com/siji1007">
-    <img src="https://streak-stats.demolab.com?user=siji1007&theme=dark" alt="GitHub Streak" />
+   [![GitHub Streak](https://streak-stats.demolab.com/?user=siji1007)](https://git.io/streak-stats)
   </a>
 </p>
 <p align="center">
