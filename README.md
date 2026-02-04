@@ -13,7 +13,7 @@
   
 <p align="center">
   <a href="https://github.com/siji1007">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siji1007&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=siji1007&theme=react&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 <p align="center">
