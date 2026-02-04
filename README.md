@@ -12,10 +12,8 @@
 <img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8a16afe4-5e7c-44d2-b735-06c6747b73e9" />
   
 <p align="center">
-  <a href="https://github.com/siji1007">
-  <img src="https://streak-stats.demolab.com/?user=siji1007&theme=react&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=siji1007" alt="GitHub Streak" /></a>
+ </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=siji1007&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </p>
