@@ -1,6 +1,6 @@
 
  <h1 align="center">Hi, I’m SiJi 👋</h1>
-.</h3>
+
   
   <!-- Profile Views -->
   <p align="center">
