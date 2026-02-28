@@ -1,6 +1,5 @@
 
  <h1 align="center">Hi, I’m SiJi 👋</h1>
-  <h3 align="center">Aym a Fool Stock Aplekeysyon Dibilupir.
 .</h3>
   
   <!-- Profile Views -->
