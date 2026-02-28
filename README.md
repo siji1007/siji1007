@@ -9,6 +9,7 @@
 
   
 <img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/8a16afe4-5e7c-44d2-b735-06c6747b73e9" />
+<img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ba8ffb9f-80e0-4cb4-b97f-79a63e22118a" />
   
 <p align="center">
  <img src="https://streak-stats.demolab.com/?user=siji1007&theme=blueberry&hide_border=true" alt="GitHub Streak" />
