@@ -2,7 +2,7 @@
  <h1 align="center">Hi, I’m SiJi 👋</h1>
 
  
- <h3 align="center">Freelance Full-Stack Application Developer and Business Corporate Software Engineer</h3>
+
   <!-- Profile Views -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=siji1007&label=Profile%20views&color=0e75b6&style=flat" alt="siji1007" />
