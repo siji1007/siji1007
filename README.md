@@ -1,15 +1,13 @@
 
  <h1 align="center">Hi, I’m SiJi 👋</h1>
- <h1 align="center">A Lead Software Engineer</h1>
+ <h1 align="center">A Lead Software Engineer </h1>
  
-
   <!-- Profile Views -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=siji1007&label=Profile%20views&color=0e75b6&style=flat" alt="siji1007" />
   </p>
-
   
-<img width="1527" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ef80c915-fec0-41d4-836a-fa45065631e3" />
+<img width="5692" height="2261" alt="certs" src="https://github.com/user-attachments/assets/3c24c57d-0702-45f2-9da0-05ec8909c446" />
 <img width="1440" height="1024" alt="Image" src="https://github.com/user-attachments/assets/ba8ffb9f-80e0-4cb4-b97f-79a63e22118a" />
   
 <p align="center">
